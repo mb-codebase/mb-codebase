@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Matteo
 
-<!--
-**mb-codebase/mb-codebase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Scientist building production ML pipelines and AI agent systems.
 
-Here are some ideas to get you started:
+### Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`Python` `LangGraph` `PyTorch` `Kedro` `FastAPI` `Docker` `Airflow` `Pydantic` `SQLAlchemy`
+
+### Projects
+
+- **Multi-Agent Research Platform** — Supervisor pattern orchestrating 4 specialized agents with MCP server, FinBERT sentiment analysis, SSE streaming
+- **Report Automation Agent** — ReAct agent automating data pipelines with anomaly detection, PDF generation, Slack notifications
+- **Portfolio Analyst Agent** — ReAct agent with 16 tools for SQL data retrieval, risk metrics calculation, Langfuse observability
+- **ML Recession Prediction** — Kedro pipeline with Optuna optimization, MLflow tracking, Airflow orchestration
+- **DQN Trading Agent** — Deep Q-Network with experience replay, checkpoint resume, 3-pipeline Kedro workflow
+- **Macro Analytics Dashboard** — Streamlit platform with config-driven ETL, SQLite caching, 40+ economic indicators
