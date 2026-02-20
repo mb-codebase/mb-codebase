@@ -6,7 +6,7 @@ Data Scientist building production ML pipelines and AI agent systems.
 
 `Python` `LangGraph` `PyTorch` `Kedro` `FastAPI` `Docker` `Airflow` `Pydantic` `SQLAlchemy`
 
-### Projects
+### Main Projects
 
 - **Multi-Agent Research Platform** — Supervisor pattern orchestrating 4 specialized agents with MCP server, FinBERT sentiment analysis, SSE streaming
 - **Report Automation Agent** — ReAct agent automating data pipelines with anomaly detection, PDF generation, Slack notifications
