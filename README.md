@@ -1,6 +1,6 @@
 # Hi, I'm Matteo
 
-Data Scientist building production AI agent systems and ML pipelines.
+AI Engineer building production AI agent systems and ML pipelines.
 
 ### Tech Stack
 
